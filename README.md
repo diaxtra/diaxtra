@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @diaxtra
+- 👀 I’m interested in cpp programing and learning new stuff
